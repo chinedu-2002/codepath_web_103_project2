@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 ![Activiicties for fun :D](web103_task2.gif)
-![Activiicties for fun :D]("C:\Users\Emmanuel Enenta\Pictures\Screenshots\Screenshot 2026-03-09 154448.png")
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
